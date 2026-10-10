@@ -37,7 +37,7 @@ Admission-Portal/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone https://github.com/Anish-Chuchreja-dev/Addmission-Portal.git
    ```
 
 2. Open the project folder.
@@ -65,7 +65,7 @@ Through this project, I practiced:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Anish**
 
 First-year B.E. Computer Science Engineering (AI & ML) student at Chitkara University, learning programming and web development one project at a time.
 
